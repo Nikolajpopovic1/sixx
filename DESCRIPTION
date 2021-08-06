@@ -1,0 +1,9 @@
+Package: Sics
+Type: Package
+Title: nearest neighbors demo
+Version: 2019.01.28
+Author: Toby Dylan Hocking
+Maintaner: Toby Dilan Hocking
+Description: Demo code to show C++ in an R package.
+License: GPL-3
+RoxygenNote: 6.1.1
