@@ -7,3 +7,4 @@ Maintaner: Toby Dilan Hocking
 Description: Demo code to show C++ in an R package.
 License: GPL-3
 RoxygenNote: 6.1.1
+LinkingTo: BH, Rcpp
